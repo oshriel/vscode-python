@@ -74,5 +74,12 @@
     "python.testing.pytestEnabled": true,
     "rust-analyzer.linkedProjects": [
         ".\\python-env-tools\\Cargo.toml"
-    ]
+    ],
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.codeActions.triggerOnFocusChange": true,
+    "files.simpleDialog.enable": true,
+    "text2code.showLoginWelcomeView": true,
+    "remote.tunnels.tunnelCredentialCommand": null
 }
